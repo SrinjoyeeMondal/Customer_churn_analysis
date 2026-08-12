@@ -8,7 +8,7 @@ This project analyzes customer churn to extract valuable customer intelligence a
 
 The project encompasses the following major functions and analysis steps:
 
-1. Data Import and Database Creation**: Importing raw customer data from an Excel file and converting it into a structured SQLite database with distinct tables for customer, subscription, and support information.
+1. **Data Import and Database Creation**: Importing raw customer data from an Excel file and converting it into a structured SQLite database with distinct tables for customer, subscription, and support information.
 2.  **Data Cleaning and Preprocessing**: Thorough cleaning of each dataset, including column renaming, handling missing values, standardizing data formats (e.g., gender), correcting data types for dates, and resolving duplicate entries.
 3.  **Feature Engineering**: Creating new insightful features like `churn_flag` and `churn_risk` to enhance analytical capabilities.
 4.  **Data Merging**: Consolidating customer, subscription, and support data into a single, unified DataFrame for holistic analysis.
