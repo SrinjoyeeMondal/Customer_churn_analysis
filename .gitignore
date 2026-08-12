@@ -15,10 +15,10 @@ env/
 .ipynb_checkpoints/
 
 # Data and DB files (do not commit raw data)
-customer_churn_data_raw.xlsx
-customer_churn.db
-test_database.sqlite
-exported_churn_data.csv
+# customer_churn_data_raw.xlsx
+# customer_churn.db
+# test_database.sqlite
+# exported_churn_data.csv
 
 # VS Code
 .vscode/
